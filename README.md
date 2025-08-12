@@ -93,6 +93,5 @@ The solution combines:
 ## 👤 Author
 **Adarsh Yadav**  
 4th Year, Chemical Engineering, IIT Roorkee  
-GitHub: [codebreaker0001](https://github.com/codebreaker0001)  
-EOF
+GitHub: [codebreaker0001](https://github.com/codebreaker0001) 
 
