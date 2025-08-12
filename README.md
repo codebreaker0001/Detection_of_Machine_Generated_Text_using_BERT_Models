@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Detection of Machine-Generated Text using BERT Models
 
 ## 📌 Overview
